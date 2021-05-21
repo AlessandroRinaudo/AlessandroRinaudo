@@ -8,7 +8,7 @@ Skills: REACT / NODE / JS / HTML / CSS / PHP /
 
 - 🔭 I’m currently working on https://fleetizen.com/ 
 - 📧 my personal and business email alessandro.rinaudo@gmail.com 
-- 🌍 visit my website host on my personal server alessandroserver.com
+- 🌍 visit my website host on my personal server https://alessandroserver.com
 
 Check my social links 😊
 
