@@ -2,7 +2,7 @@
 #### I am a junior developer at Fleetizen 
 ![I am a junior developer at Fleetizen ](https://alessandroserver.com/banner.png)
 
-I'm Italian, but I've been livingin in Paris since 2016. I'm passionate about coding especially in web development,I learn new technologies very quickly. My favourite programming language is Javascript especially React JS library.
+I'm Italian, but I've been living in Paris since 2016. I'm passionate about coding especially in web development,I learn new technologies very quickly. My favourite programming language is Javascript especially React JS library.
 
 Skills: REACT / NODE / JS / HTML / CSS / PHP /
 
