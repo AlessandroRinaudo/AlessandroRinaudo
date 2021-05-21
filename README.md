@@ -2,12 +2,13 @@
 #### I am a junior developer at Fleetizen 
 ![I am a junior developer at Fleetizen ](https://alessandroserver.com/banner.png)
 
-I'm Italian, but actually I live Paris. I'm passionate about coding especially in web development,I learn a new technology very quickly. My favorite programming language is Javascript and I love in particular React library.
+I'm Italian, but actually I live Paris. I'm passionate about coding especially in web development,I learn a new technology very quickly. My favourite programming language is Javascript and I love in particular React library.
 
 Skills: REACT / NODE / JS / HTML / CSS / PHP /
 
 - 🔭 I’m currently working on https://fleetizen.com/ 
-- - 📧 my personal and business email alessandro.rinaudo@gmail.com 
+- 📧 my personal and business email alessandro.rinaudo@gmail.com 
+- 🌍 visit my website host on my personal server
 
 Check my social links 😊
 
