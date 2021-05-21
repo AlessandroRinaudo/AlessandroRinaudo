@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alessandro
 #### I am a junior developer at Fleetizen 
-![I am a junior developer at Fleetizen ](https://alessandroserver.com/avatar.png)
+![I am a junior developer at Fleetizen ](https://alessandroserver.com/banner.png)
 
 I'm Italian, but actually I live Paris. I'm passionate about coding especially in web development,I learn a new technology very quickly. My favorite programming language is Javascript and I love in particular React library.
 
