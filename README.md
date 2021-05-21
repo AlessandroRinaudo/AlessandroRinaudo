@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Alessandro
+#### I am a junior developer at Fleetizen 
+![I am a junior developer at Fleetizen ](https://alessandroserver.com/avatar.png)
 
-<!--
-**AlessandroRinaudo/AlessandroRinaudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Italian, but actually I live Paris. I'm passionate about coding especially in web development, I really love coding and I . My favorite programming language is Javascript and I love in particular React library.
 
-Here are some ideas to get you started:
+Skills: REACT / ANGULAR/ JS / HTML / CSS / PHP /
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://fleetizen.com/ 
+- - 📧 my personal and business email alessandro.rinaudo@gmail.com 
+
+Check my social links 😊
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alessandro-rinaudo-403a001b3//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AlessandroRinaudo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.alessandroserver.com/Alessandro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitea.svg' alt='gitea' height='40'>](https://gitea.alessandroserver.com/explore/repos)  
+
+
