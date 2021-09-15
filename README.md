@@ -12,6 +12,6 @@ Skills: REACT / NODE / JS / HTML / CSS / PHP /
 
 Check my social links 😊
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alessandro-rinaudo-403a001b3//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlessandroRinaudo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.alessandroserver.com/Alessandro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitea.svg' alt='gitea' height='40'>](https://gitea.alessandroserver.com/explore/repos)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alessandro-rinaudo-403a001b3//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlessandroRinaudo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.alessandroserver.com/Alessandro)  
 
 
