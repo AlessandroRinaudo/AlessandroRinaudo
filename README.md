@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Alessandro
-#### I am a junior developer at Fleetizen 
+#### I am a software engineer graduated in "Science et technologie du logiciel" at Sorbonne University in Paris
 ![I am a junior developer at Fleetizen ](https://alessandroserver.com/banner.png)
 
 I'm Italian, but I've been living in Paris since 2016. I'm passionate about coding especially in web development,I learn new technologies very quickly. My favourite programming language is Javascript especially React JS library.
