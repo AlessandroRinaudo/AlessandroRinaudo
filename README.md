@@ -4,9 +4,10 @@
 
 I'm Italian, but I've been living in Paris since 2016. I'm passionate about coding especially in web development,I learn new technologies very quickly. My favourite programming language is Javascript especially React JS library.
 
-Skills: REACT / NODE / JS / HTML / CSS / PHP /
+Skills: REACT / NODE / JS / HTML / CSS / JAVA /
 
-- 🔭 I’m currently working on https://fleetizen.com/ 
+- 🧑‍💻 I’m currently working for https://www.extia-group.com/ 
+- 🔭 I worked 2 years for https://fleetizen.com/ 
 - 📧 my personal and business email alessandro.rinaudo@gmail.com 
 - 🌍 visit my website host on my personal server https://alessandroserver.com
 
